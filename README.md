@@ -16,8 +16,9 @@ write programs in [MS BASIC](https://en.wikipedia.org/wiki/Microsoft_BASIC) synt
 
 #### Chipmunk BASIC
 * Want to actully save your `.BAS` files and run them in a local interpreter? [Chipmunk Basic](http://www.nicholson.com/rhn/basic/) makes this easy.
-Just grab the [MacOS Beta download](http://www.nicholson.com/rhn/basic/), add it's executable to the appropriate `/bin` directory to get it in
-your execution $path - and plug away with commands like `$ basic filename.bas`. (Reference the README provided in the download bundle to do this correctly)
+  - Grab the [MacOS Beta download](http://www.nicholson.com/rhn/basic/)
+  - Add it's executable to the appropriate `/bin` directory to get it in your execution $path
+  - Plug away with commands like `$ basic filename.bas` (reference the README provided in the download bundle to do this correctly)
  
 * Chipmunk BASIC [Reference Manual](http://www.nicholson.com/rhn/basic/basic.man.html)
 

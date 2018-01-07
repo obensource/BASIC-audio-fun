@@ -1,6 +1,6 @@
 ## Fun with BASIC!
 
-Sometimes for pleasure I write audio programs in BASIC on my TRS-80 Model 100.
+Sometimes for pleasure I write audio programs in [BASIC](https://en.wikipedia.org/wiki/BASIC) on my [TRS-80 Model 100](https://en.wikipedia.org/wiki/TRS-80_Model_100).
 
 Some may end up in use for recording purposes, some not - but in the end it's just a zen thing really.
 

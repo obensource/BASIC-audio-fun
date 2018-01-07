@@ -15,12 +15,11 @@ Here's a couple useful tools to help satisfy all your BASIC needs.
 write programs in [MS BASIC](https://en.wikipedia.org/wiki/Microsoft_BASIC) syntax.
 
 #### Chipmunk BASIC
-* Want to actully save your `.BAS` files and run them in a local interpreter? [Chipmunk Basic](http://www.nicholson.com/rhn/basic/) makes this easy.
-  - Grab the [MacOS Beta download](http://www.nicholson.com/rhn/basic/)
-  - Add it's executable to the appropriate `/bin` directory to get it in your execution $path
-  - Plug away with commands like `$ basic filename.bas` (reference the README provided in the download bundle to do this correctly)
- 
-* Chipmunk BASIC [Reference Manual](http://www.nicholson.com/rhn/basic/basic.man.html)
+Want to actully save your `.BAS` files and run them in a local interpreter? [Chipmunk Basic](http://www.nicholson.com/rhn/basic/) makes this easy.
+* Grab the [MacOS Beta download](http://www.nicholson.com/rhn/basic/)
+* Add it's executable to the appropriate `/bin` directory to get it in your execution $path
+* Plug away with commands like `$ basic filename.bas` (reference the README provided in the download bundle to do this correctly)
+* Skim the Chipmunk BASIC [Reference Manual](http://www.nicholson.com/rhn/basic/basic.man.html) for syntax, etc.
 
 #### MS-BASIC Interpreter for Macintosh
 What about Archive.org's emulation of the [MS BASIC 1.0 Interpreter for Macintosh](https://archive.org/details/mac_MSBASIC_1) you might ask. 

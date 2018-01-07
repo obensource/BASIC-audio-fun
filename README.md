@@ -5,7 +5,9 @@ Sometimes for pleasure I write audio programs in BASIC on my TRS-80 Model 100.
 Some may end up in use for recording purposes, some not - but in the end it's just a zen thing really.
 
 
-### Don't have an old machine with a BASIC interpreter lying around? No problem!
+### Don't have an old machine with a BASIC interpreter lying around? *No problem!*
+
+Here's a couple useful tools to help satisfy all your BASIC needs.
 
 #### MS-QBASIC Interpreter emulator
 * [Archive.org](https://archive.org/)'s [MS-DOS Archive](https://archive.org/details/softwarelibrary_msdos) has a live
